@@ -101,26 +101,3 @@ header{
 .navigation-menu.active li:nth-child(4) a{
     transition-delay: 0.8s;
 }
-p{
-    max-width: 80%;
-    margin: auto;
-    padding: 40px 0;
-    font-size: 18px;
-    line-height: 1.4em;
-    text-align: justify;
-}
-.container{
-    position: relative;
-    max-width: 430px;
-    width: 100%;
-    box-shadow: 0 5px 10px rgba(0,0, 0, 0.1);
-    text-align: center;
-    justify-content: center;
-    display: flex;
-}
-.forms{
-    justify-content: center;
-    text-align: center;
-    font-family: 'Poppins', 'sans-serif';
-    align-items: center;
-}
